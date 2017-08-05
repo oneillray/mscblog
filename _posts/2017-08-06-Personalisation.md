@@ -10,7 +10,6 @@ categories: msc
 - what are obvious, everyday examples of personalisation?
 
 
-
 The goal of news website is to 'appeal to a wide-range of people with different motivations' (Marshall, 2007). Much work has been done in the area of personalisation has been in measuring the algorithms success in influencing user engagement [ref] and compare the various methods of personalisation [ref]. However very little has been done in the way of measuring the effectiveness of various interaction design techniques in getting users to start using personalisation.  
 
 ## What is it? (100)
@@ -30,7 +29,12 @@ Personalisation can be described as the customisation of a user experience by th
 
 *Direct user inputs*
 
-/Image uploaded from iOS (3).jpg
+{% include image.html
+            img="/assets/netflix-1.png"
+            title="netflix personalisation"
+            caption="This is how netflix initiates personalisation" %}
+
+
 
 **Implicit Personalisation** on the contrary requires no user interaction and content is often presented without the user being aware of the profiling and how the content is being personalised to their interests. There are many examples of this, the most obvious example is google search. When you type 'news' in google the results returned will be relevant to your geolocation.  [Ref needed]
 
