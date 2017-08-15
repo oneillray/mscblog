@@ -1,0 +1,14 @@
+- name: The-Book
+  writers: John
+  year: 2017
+  link: http://google.com
+
+- name: The Future of Personalisation at News Websites - Lessons from a Longitudinal Study
+  writers: Thurman, N. & Schifferes, S
+  year: 2012
+  link: http://openaccess.city.ac.uk/1067
+
+- name: fear and loathing in las vegas
+  writers: Hunter S. Thompson
+  year: 1971
+  link: https://www.amazon.com/Fear-Loathing-Las-Vegas-American/dp/0679785892

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lists
 title: Topic Areas
 permalink: /topics/
 ---
