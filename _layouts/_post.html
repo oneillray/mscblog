@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  {% include header.html %}
+
+  <body>
+    <section class="page-wrapper post-wrapper">
+      <p class="post-date">{{ page.date || YYYY-MM-DD-name-of-post }}</p>
+    </section>
+
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% include reading_time.html %}
+
+    <article class="post-content">
+      {{content}}
+    </article>
+  </body>
+
+  {% include footer.html %}
+</html>
