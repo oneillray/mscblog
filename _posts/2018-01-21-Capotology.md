@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Capotology"
 date:   2018-01-21 21:43:41 +0100
-categories: msc
+
 ---
 
 ## Capotology
